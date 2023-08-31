@@ -1,0 +1,23 @@
+pageSize: 10
+cityId: "340000"
+cityCode: "340000"
+name: ""
+flag: "getList"
+channelId: 1032
+token: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIxMjEzMTUiLCJjaGFubmVsSWQiOiIxMDMyIn0.x3q4UuV8amzQdOKjp6D1JR0aoiR53DYQ8--r2ITNvQk"
+---
+createTime: ''
+endTime: ''
+acName: ''
+acCode: ''
+orderSn: ''
+phone: ''
+userId: ''
+storeId: ''
+storeName: ''
+collectChannels: ''
+exchangeType: ''
+page: 1
+pageSize: 10
+channelId: 1032
+token: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIxMjEzMTUiLCJjaGFubmVsSWQiOiIxMDMyIn0.x3q4UuV8amzQdOKjp6D1JR0aoiR53DYQ8 - -r2ITNvQk"
